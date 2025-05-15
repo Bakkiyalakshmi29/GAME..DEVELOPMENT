@@ -1,5 +1,8 @@
 # EX 7 : THREE DIMENSIONAL TRANSFORMATIONS
 
+NAME  : BAKKIYA LAKSHMI M
+REG NO:212222220006
+
 ## AIM :
  
  To implement the various transformations on three dimensional odjects using a c coding.
